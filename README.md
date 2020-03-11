@@ -1,2 +1,2 @@
-# Sokoban
+# Puzzle
 Game
